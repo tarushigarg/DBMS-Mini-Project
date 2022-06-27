@@ -67,9 +67,9 @@ data of the reason and number of leaves of an employee. The attributes of this e
 
 ### Contributors
 
-* Pranjay Poddar - RA1911028010129
-* Darshil Shah - RA1911028010121
-* Sathwika Roy - RA1911028010132
+* Tarushi Garg - RA2011028010044
+* Preksha Tyagi - RA2011028010015
+* Udit Dhawan - RA2011028010009
 
 
 ### License
